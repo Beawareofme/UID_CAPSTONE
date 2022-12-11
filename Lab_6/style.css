@@ -1,0 +1,70 @@
+body{
+    background-image:url("istockphoto-1160364361-612x612.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.box1{
+    height: 850px;
+    width: 800px;
+    padding: 10px;
+    position: absolute;
+    margin: 10px 200px 10px 300px;
+    background-color: azure;
+}
+.box2{
+    height: 860px;
+    width: 300px;
+    padding: 5px;
+    position: absolute;
+    margin: 10px 200px 10px 300px;
+    background-color:orange;
+}
+.box3{
+    height: 165px;
+    width: 490px;
+    padding: 5px;
+    position:absolute;
+    margin: 20px 200px 660px 615px ;
+    background-color:azure;
+}
+.box4{
+    height: 310px;
+    width: 490px;
+    padding: 5px;
+    position:absolute;
+    margin: 200px 200px 660px 615px ;
+    background-color:azure;
+}
+.box5{
+    height: 330px;
+    width: 490px;
+    padding: 5px;
+    position:absolute;
+    margin: 530px 200px 660px 615px ;
+    background-color:azure;
+}
+.text1{
+    text-transform: uppercase;
+    text-align: center;
+    -webkit-text-fill-color: white;
+}
+.contact{
+    list-style:none;
+    font-size:medium;
+    
+}
+.percent{
+    position: relative  ;
+    width: 100%;
+    height: 6px;
+    background: rgb(255, 255, 255);
+    display:block;
+    margin-top: 5px;
+}
+.fill{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: blue;
+}
