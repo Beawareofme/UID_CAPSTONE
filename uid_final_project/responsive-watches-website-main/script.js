@@ -25,7 +25,7 @@ for (let i = 1; i <= 7; i++) {
             output.classList.add("correctCaptcha");
             output.innerHTML = "Correct! Please click again on Submit button to redirect to Website!";
             document.getElementById("submitButton").onclick = function () {
-                location.href = "uid_final_project\responsive-watches-website-main\index.html";
+                location.href = "uid_final_project/responsive-watches-website-main/index.html";
             };
         }
         else {
